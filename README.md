@@ -3,6 +3,17 @@
 ## How to work with Arduino and build a circuit in tenikercad like this:  
 <img src="https://github.com/HAN6661/Electronic-circuit/assets/173714836/f322b0a5-c1f7-4848-932b-6fe89a52af18.jpg" width="50%" height="50%">
 
+### Tools 
+Components Needed:
+
+1- 1 x Arduino Uno
+
+2- 6 x Servo Motors
+
+3- External power supply
+
+4- Breadboard and connecting wires
+
 ### First you gone download the Arduino 1.8.19
 
 ### Open the arduino 
